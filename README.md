@@ -1,3 +1,3 @@
 # MY First Repo
-My first repo
-Autho -Thejas L Urs
+My first repo<br>
+Author -Thejas L Urs
